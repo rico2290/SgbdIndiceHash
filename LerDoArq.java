@@ -20,6 +20,11 @@ public class LerDoArq{
 			for (int i=0;i < k; i++){
 				ler = br.readLine();
 				String decTobin = Integer.toBinaryString(i);
+				if (decTobin.length()<2) {
+					decTobin = "0" + decTobin;
+					
+				}
+				//String kk = decTobin.substring(decTobin.lenght()-2);
 				
 				//System.out.println(Integer.toBinaryString(d & 0xFF));
 				//decTobin.substring(,2);
