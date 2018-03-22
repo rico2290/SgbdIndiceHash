@@ -28,5 +28,5 @@ Implementação de Hash Extensivel
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
+* rjl220990@gmail.com
 * Other community or team contact
